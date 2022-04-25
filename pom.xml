@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.teamapps</groupId>
-    <artifactId>teamapps-protocl-schema-maven-plugin</artifactId>
+    <artifactId>teamapps-protocol-schema-maven-plugin</artifactId>
     <version>0.2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
@@ -14,7 +14,7 @@
 
     <name>TeamApps Protocol Schema Maven Plugin</name>
     <description>Maven plugin to generate message and protocol classes</description>
-    <url>https://github.com/teamapps-org/teamapps-protocl-schema-maven-plugin</url>
+    <url>https://github.com/teamapps-org/teamapps-protocol-schema-maven-plugin</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
@@ -49,9 +49,9 @@
     </distributionManagement>
 
     <scm>
-        <url>https://github.com/teamapps-org/teamapps-protocl-schema-maven-plugin</url>
-        <connection>scm:git:git@github.com:teamapps-org/teamapps-protocl-schema-maven-plugin</connection>
-        <developerConnection>scm:git:git@github.com:teamapps-org/teamapps-protocl-schema-maven-plugin</developerConnection>
+        <url>https://github.com/teamapps-org/teamapps-protocol-schema-maven-plugin</url>
+        <connection>scm:git:git@github.com:teamapps-org/teamapps-protocol-schema-maven-plugin</connection>
+        <developerConnection>scm:git:git@github.com:teamapps-org/teamapps-protocol-schema-maven-plugin</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
